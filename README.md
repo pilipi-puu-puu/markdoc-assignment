@@ -1,2 +1,2 @@
 # markdoc-assignment
-API Documentation assignment for Toingg
+API Documentation assignment for Toingg.
